@@ -1,0 +1,14 @@
+{
+  "name": "selfplus-bot",
+  "version": "1.0.0",
+  "description": "ربات تلگرامی SELF+PLUS - بازی شرط‌بندی و سیستم الماس",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "sqlite3": "^5.1.7"
+  },
+  "license": "MIT"
+}
